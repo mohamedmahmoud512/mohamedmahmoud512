@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mm7996475@gmail.com**
 
-- ⚡ Fun fact **I am Funny 😅**
+- 🎯 Techniques : (HTML 5, CSS 3, JS, TS, SASS, Bootstrap, API, react JS) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
