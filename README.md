@@ -1,4 +1,3 @@
-<img align="center" width="700px" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" width="500px" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif">
