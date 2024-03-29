@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
 <h3 align="center">Frontend Developer</h3>
-<img align="center" width="500px" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif">
+<img align="right" width="500px" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmahmoud512&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmahmoud512" /> </p>
 
 - 🌱 I’m currently learning **Back-End (Node.js)**
