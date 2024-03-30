@@ -3,7 +3,9 @@
 <img align="right" width="500px" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmahmoud512&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmahmoud512" /> </p>
 
-- 🌱 I’m currently learning **Back-End (Node.js)**
+- 🌍  I'm based in Cairo
+
+- 🌱 I’m learning **Back-End (Node.js)**
 
 - 📫 How to reach me **mm7996475@gmail.com**
 
